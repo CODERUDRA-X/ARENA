@@ -8,3 +8,7 @@ data={
     "Experience":[1,3,4,7],
     "Purchased":["Yes","No","Yes","No"]
 }
+
+
+
+data={"Gender":["Male","Female","Male","Female"]}
