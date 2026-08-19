@@ -1,0 +1,101 @@
+Patient_ID,Patient_Name,Gender,Age,City,Disease,Department,Doctor,Admission_Type,Admission_Days,Room_Charge_Per_Day,Medicine_Charge,Doctor_Fee,Total_Bill,Insurance,Patient_Status,Blood_Group,Smoker,Number_of_Visits
+2001,Rahul,Male,77,Meerut,Heart Disease,Dermatology,Dr. Joshi,Referral,4,2500,4616,2000,16616,No,Under Treatment,A+,Yes,2
+2002,Nisha,Female,27,Jaipur,Migraine,Pediatrics,Dr. Mishra,Routine,10,1500,4183,500,19683,Yes,Discharged,A-,No,5
+2003,Harsh,Male,48,Delhi,Anemia,Dermatology,Dr. Verma,Routine,15,2000,7680,2000,39680,No,Recovered,AB+,No,7
+2004,Muskan,Female,66,Gorakhpur,Diabetes,Orthopedics,Dr. Singh,Emergency,17,2500,7417,1500,51417,Yes,Critical,AB-,Yes,8
+2005,Meera,Female,72,Jaipur,Migraine,Gastroenterology,Dr. Patel,Routine,8,1500,5633,1500,19133,Yes,Discharged,O+,Yes,1
+2006,Aisha,Female,47,Varanasi,Migraine,Gastroenterology,Dr. Joshi,Referral,5,5000,7725,2000,34725,No,Critical,A+,No,6
+2007,Manish,Female,24,Jaipur,Anemia,Cardiology,Dr. Khan,Routine,15,1500,4091,2000,28591,No,Recovered,B-,No,3
+2008,Isha,Male,79,Varanasi,Pneumonia,Cardiology,Dr. Sharma,Referral,15,1500,1255,500,24255,No,Discharged,B+,Yes,6
+2009,Vikas,Male,61,Meerut,Asthma,Pulmonology,Dr. Verma,Routine,19,4000,6803,1500,84303,Yes,Under Treatment,O+,No,7
+2010,Pooja,Male,14,Jaipur,Hypertension,General Medicine,Dr. Mishra,Referral,5,4000,7110,800,27910,No,Recovered,A+,No,6
+2011,Nisha,Female,74,Meerut,Asthma,Neurology,Dr. Gupta,Routine,10,3000,3170,500,33670,No,Critical,B-,Yes,9
+2012,Aditya,Male,58,Varanasi,Anemia,General Medicine,Dr. Singh,Referral,13,1500,2101,800,22401,Yes,Under Treatment,B+,Yes,7
+2013,Rohan,Female,40,Kanpur,Arthritis,Neurology,Dr. Khan,Routine,9,3000,4866,1500,33366,No,Critical,O+,No,3
+2014,Aman,Female,13,Varanasi,Pneumonia,General Medicine,Dr. Verma,Routine,11,4000,4448,1500,49948,No,Critical,B+,Yes,6
+2015,Divya,Male,15,Meerut,Migraine,Orthopedics,Dr. Khan,Referral,6,2500,5103,2000,22103,No,Under Treatment,A-,No,2
+2016,Neha,Male,83,Prayagraj,Heart Disease,Pediatrics,Dr. Khan,Referral,14,2000,1368,500,29868,Yes,Discharged,O-,Yes,5
+2017,Manish,Female,2,Lucknow,Hypertension,Orthopedics,Dr. Sharma,Routine,9,1500,613,1500,15613,Yes,Recovered,O-,No,8
+2018,Aditya,Female,41,Meerut,Pneumonia,Gastroenterology,Dr. Patel,Referral,20,5000,5863,2000,107863,Yes,Discharged,O+,No,5
+2019,Vivaan,Female,43,Agra,Hypertension,Pulmonology,Dr. Patel,Routine,12,1500,6524,1500,26024,Yes,Discharged,B-,Yes,2
+2020,Aditya,Male,67,Delhi,Viral Infection,Pulmonology,Dr. Sharma,Routine,6,4000,1505,500,26005,Yes,Discharged,AB+,No,7
+2021,Vikas,Male,70,Lucknow,Heart Disease,Dermatology,Dr. Khan,Emergency,8,3000,5927,800,30727,Yes,Recovered,A+,No,9
+2022,Vikas,Male,23,Gorakhpur,Diabetes,Pulmonology,Dr. Mishra,Referral,16,3000,2661,1000,51661,No,Recovered,A+,Yes,8
+2023,Karan,Female,47,Varanasi,Heart Disease,Pulmonology,Dr. Mishra,Emergency,2,2000,6063,2000,12063,No,Discharged,AB-,No,9
+2024,Sahil,Male,81,Jaipur,Asthma,Gastroenterology,Dr. Sharma,Routine,16,5000,5256,1000,86256,No,Recovered,B+,Yes,5
+2025,Vikas,Male,3,Gorakhpur,Pneumonia,Pulmonology,Dr. Sharma,Routine,12,4000,6488,1000,55488,No,Under Treatment,A-,Yes,3
+2026,Harsh,Male,76,Varanasi,Asthma,Pulmonology,Dr. Khan,Referral,13,2500,4985,1000,38485,No,Discharged,B+,No,4
+2027,Riya,Female,69,Kanpur,Heart Disease,General Medicine,Dr. Singh,Routine,1,4000,5806,1500,11306,Yes,Under Treatment,A+,Yes,9
+2028,Harsh,Male,69,Kanpur,Viral Infection,Orthopedics,Dr. Singh,Emergency,1,2500,1021,1000,4521,No,Critical,A-,Yes,7
+2029,Neha,Female,64,Prayagraj,Heart Disease,Orthopedics,Dr. Mishra,Referral,9,4000,2969,500,39469,No,Discharged,A-,Yes,2
+2030,Ankit,Female,56,Gorakhpur,Heart Disease,Pediatrics,Dr. Mishra,Referral,16,2500,2673,800,43473,No,Critical,O-,Yes,4
+2031,Neha,Female,76,Jaipur,Pneumonia,Neurology,Dr. Joshi,Referral,15,2000,7589,1000,38589,Yes,Critical,O+,No,2
+2032,Manish,Male,70,Agra,Pneumonia,Pediatrics,Dr. Singh,Referral,11,2500,7390,1500,36390,Yes,Discharged,O+,No,7
+2033,Simran,Female,13,Noida,Heart Disease,Orthopedics,Dr. Patel,Routine,13,1500,5003,1000,25503,No,Recovered,AB+,Yes,1
+2034,Vikas,Female,75,Meerut,Gastritis,Gastroenterology,Dr. Joshi,Routine,9,4000,6248,1000,43248,Yes,Recovered,B-,Yes,5
+2035,Aisha,Female,80,Delhi,Hypertension,Orthopedics,Dr. Sharma,Emergency,11,1500,6887,800,24187,Yes,Discharged,B-,No,4
+2036,Rohan,Female,67,Meerut,Heart Disease,Neurology,Dr. Verma,Emergency,20,5000,1899,1000,102899,No,Critical,A+,Yes,9
+2037,Ananya,Female,45,Delhi,Viral Infection,Gastroenterology,Dr. Khan,Routine,17,2000,7958,1500,43458,No,Discharged,A+,No,3
+2038,Manish,Female,26,Delhi,Migraine,Dermatology,Dr. Khan,Emergency,1,3000,7126,1000,11126,Yes,Critical,A-,No,8
+2039,Tanya,Female,63,Delhi,Arthritis,Pediatrics,Dr. Singh,Emergency,20,1500,7488,2000,39488,Yes,Discharged,AB+,Yes,10
+2040,Mohit,Female,66,Gorakhpur,Asthma,Orthopedics,Dr. Khan,Referral,7,1500,4299,800,15599,No,Under Treatment,O-,No,7
+2041,Sahil,Male,78,Gorakhpur,Asthma,Neurology,Dr. Singh,Referral,18,4000,6448,2000,80448,Yes,Recovered,O+,No,3
+2042,Vikas,Female,22,Kanpur,Diabetes,Neurology,Dr. Singh,Routine,5,2500,4926,1000,18426,No,Recovered,O+,Yes,9
+2043,Simran,Male,42,Kanpur,Heart Disease,General Medicine,Dr. Joshi,Emergency,12,4000,1253,1500,50753,Yes,Recovered,O-,No,6
+2044,Rohan,Female,85,Jaipur,Pneumonia,Neurology,Dr. Gupta,Emergency,1,2000,4622,800,7422,No,Under Treatment,O-,Yes,9
+2045,Sneha,Male,40,Noida,Heart Disease,Gastroenterology,Dr. Verma,Emergency,14,5000,3966,1500,75466,Yes,Recovered,A-,No,10
+2046,Riya,Male,55,Lucknow,Heart Disease,Neurology,Dr. Khan,Routine,6,1500,1910,800,11710,No,Critical,A+,No,9
+2047,Nisha,Male,14,Kanpur,Heart Disease,Orthopedics,Dr. Mishra,Routine,15,2500,7385,1000,45885,No,Recovered,O-,No,2
+2048,Tanya,Male,36,Agra,Diabetes,Cardiology,Dr. Sharma,Emergency,15,3000,3333,2000,50333,No,Recovered,AB+,No,10
+2049,Priya,Male,4,Prayagraj,Gastritis,Cardiology,Dr. Singh,Referral,16,4000,679,800,65479,No,Recovered,A+,Yes,10
+2050,Karan,Female,61,Varanasi,Arthritis,Gastroenterology,Dr. Gupta,Routine,17,1500,6500,1000,33000,Yes,Discharged,AB+,Yes,8
+2051,Sahil,Male,76,Noida,Viral Infection,Dermatology,Dr. Joshi,Referral,8,4000,2009,1500,35509,Yes,Critical,B-,No,1
+2052,Yash,Male,67,Delhi,Migraine,Dermatology,Dr. Sharma,Routine,17,3000,6927,800,58727,Yes,Recovered,O-,Yes,10
+2053,Kavya,Male,14,Jaipur,Gastritis,General Medicine,Dr. Gupta,Emergency,3,4000,1893,1500,15393,Yes,Discharged,B+,No,6
+2054,Mohit,Male,58,Gorakhpur,Diabetes,Pediatrics,Dr. Joshi,Referral,3,2500,1873,500,9873,Yes,Under Treatment,AB-,Yes,5
+2055,Varun,Male,1,Agra,Viral Infection,General Medicine,Dr. Joshi,Routine,3,2000,5840,500,12340,Yes,Under Treatment,B-,No,1
+2056,Kavya,Female,12,Varanasi,Diabetes,General Medicine,Dr. Patel,Routine,18,2500,2370,2000,49370,Yes,Critical,B+,Yes,4
+2057,Ananya,Female,36,Kanpur,Anemia,Cardiology,Dr. Sharma,Routine,6,4000,2133,2000,28133,Yes,Under Treatment,B-,No,3
+2058,Aman,Male,1,Jaipur,Hypertension,Gastroenterology,Dr. Patel,Referral,11,2000,4554,2000,28554,No,Discharged,A-,Yes,5
+2059,Harsh,Male,40,Gorakhpur,Diabetes,General Medicine,Dr. Mishra,Referral,8,1500,3590,800,16390,Yes,Critical,A-,Yes,8
+2060,Aman,Male,17,Lucknow,Viral Infection,Pulmonology,Dr. Singh,Routine,6,4000,4617,1500,30117,No,Recovered,AB-,No,3
+2061,Isha,Male,13,Varanasi,Arthritis,Gastroenterology,Dr. Verma,Routine,13,5000,5622,500,71122,No,Critical,AB-,No,5
+2062,Meera,Female,41,Kanpur,Hypertension,General Medicine,Dr. Gupta,Emergency,15,5000,5595,1500,82095,No,Critical,B-,No,3
+2063,Payal,Female,83,Gorakhpur,Gastritis,Orthopedics,Dr. Khan,Referral,4,2000,3655,800,12455,No,Discharged,O-,No,4
+2064,Ritika,Male,39,Kanpur,Gastritis,Neurology,Dr. Joshi,Routine,6,4000,2974,500,27474,No,Recovered,O+,Yes,10
+2065,Simran,Male,81,Gorakhpur,Heart Disease,Pulmonology,Dr. Mishra,Routine,17,2500,5102,1000,48602,No,Under Treatment,A+,No,9
+2066,Raj,Female,46,Lucknow,Hypertension,Orthopedics,Dr. Gupta,Emergency,14,3000,5602,1000,48602,No,Critical,AB-,Yes,7
+2067,Divya,Male,13,Prayagraj,Pneumonia,Dermatology,Dr. Verma,Routine,17,2000,3563,500,38063,No,Recovered,AB+,Yes,6
+2068,Ananya,Male,59,Jaipur,Hypertension,Cardiology,Dr. Gupta,Referral,10,1500,1292,500,16792,No,Discharged,B+,Yes,2
+2069,Aisha,Male,71,Jaipur,Asthma,Cardiology,Dr. Sharma,Referral,12,2000,1723,1500,27223,No,Critical,A-,No,8
+2070,Rahul,Male,53,Kanpur,Gastritis,Cardiology,Dr. Khan,Referral,2,3000,4395,1000,11395,Yes,Critical,A-,No,3
+2071,Harsh,Female,56,Prayagraj,Pneumonia,Pediatrics,Dr. Verma,Routine,1,2000,5435,2000,9435,Yes,Discharged,O-,No,10
+2072,Tanya,Male,68,Jaipur,Migraine,General Medicine,Dr. Khan,Referral,19,2500,2416,2000,51916,No,Discharged,AB+,No,4
+2073,Tanya,Female,34,Agra,Hypertension,Orthopedics,Dr. Sharma,Emergency,19,3000,1835,1000,59835,No,Discharged,A-,No,7
+2074,Pooja,Male,48,Jaipur,Anemia,Pediatrics,Dr. Patel,Routine,14,4000,4282,2000,62282,Yes,Discharged,AB+,No,5
+2075,Aisha,Male,78,Lucknow,Migraine,General Medicine,Dr. Verma,Routine,16,1500,3450,1500,28950,No,Discharged,AB+,No,5
+2076,Kabir,Male,23,Lucknow,Arthritis,Gastroenterology,Dr. Verma,Referral,1,2000,2288,500,4788,Yes,Discharged,B+,Yes,7
+2077,Rahul,Male,76,Jaipur,Diabetes,Neurology,Dr. Joshi,Referral,8,1500,6191,500,18691,Yes,Discharged,AB+,No,9
+2078,Harsh,Male,35,Gorakhpur,Asthma,Dermatology,Dr. Sharma,Emergency,15,2000,918,1500,32418,No,Critical,AB-,No,3
+2079,Vikas,Female,25,Agra,Anemia,Neurology,Dr. Gupta,Routine,1,2500,6875,500,9875,Yes,Discharged,A+,Yes,4
+2080,Kavya,Male,2,Delhi,Viral Infection,Cardiology,Dr. Khan,Referral,15,3000,1131,1000,47131,Yes,Under Treatment,O-,No,2
+2081,Divya,Male,29,Noida,Heart Disease,Pediatrics,Dr. Singh,Emergency,10,4000,5106,500,45606,Yes,Under Treatment,O+,Yes,7
+2082,Sneha,Male,25,Kanpur,Arthritis,Gastroenterology,Dr. Verma,Referral,9,4000,5797,1500,43297,Yes,Discharged,A+,No,4
+2083,Harsh,Male,35,Noida,Gastritis,Cardiology,Dr. Gupta,Routine,9,3000,5703,500,33203,Yes,Discharged,AB+,Yes,8
+2084,Arjun,Male,38,Jaipur,Hypertension,Orthopedics,Dr. Gupta,Referral,11,2500,2946,800,31246,Yes,Recovered,O-,Yes,1
+2085,Tanya,Female,43,Gorakhpur,Viral Infection,Orthopedics,Dr. Sharma,Routine,11,1500,2572,1500,20572,No,Critical,AB+,Yes,6
+2086,Sakshi,Female,52,Gorakhpur,Hypertension,General Medicine,Dr. Patel,Routine,12,2000,4937,1000,29937,Yes,Recovered,AB-,Yes,8
+2087,Aman,Female,16,Varanasi,Gastritis,Orthopedics,Dr. Gupta,Routine,13,1500,6347,1000,26847,Yes,Critical,A+,Yes,1
+2088,Kavya,Male,26,Meerut,Migraine,Neurology,Dr. Khan,Routine,17,3000,3376,800,55176,No,Critical,AB+,No,4
+2089,Mohit,Female,34,Delhi,Pneumonia,Pediatrics,Dr. Verma,Emergency,3,3000,3579,1000,13579,No,Under Treatment,A-,No,3
+2090,Harsh,Female,60,Noida,Diabetes,Pulmonology,Dr. Khan,Referral,8,5000,6838,800,47638,Yes,Recovered,O+,No,6
+2091,Shreya,Female,41,Jaipur,Hypertension,Cardiology,Dr. Khan,Emergency,3,3000,7780,2000,18780,Yes,Under Treatment,B-,No,10
+2092,Varun,Male,37,Kanpur,Viral Infection,Pulmonology,Dr. Joshi,Routine,11,2000,2673,2000,26673,No,Recovered,B+,No,5
+2093,Rohan,Female,52,Gorakhpur,Diabetes,General Medicine,Dr. Verma,Emergency,13,1500,1969,1500,22969,Yes,Recovered,O-,Yes,1
+2094,Komal,Male,57,Lucknow,Pneumonia,Neurology,Dr. Joshi,Emergency,1,3000,920,500,4420,Yes,Recovered,O-,No,1
+2095,Shreya,Female,58,Gorakhpur,Hypertension,Dermatology,Dr. Patel,Emergency,7,1500,3054,2000,15554,Yes,Discharged,AB+,Yes,6
+2096,Vivaan,Male,66,Varanasi,Diabetes,General Medicine,Dr. Khan,Emergency,3,1500,541,800,5841,Yes,Recovered,A+,No,3
+2097,Rohan,Female,64,Prayagraj,Arthritis,Pediatrics,Dr. Singh,Referral,13,2000,6686,1500,34186,Yes,Recovered,A-,Yes,7
+2098,Karan,Female,61,Lucknow,Arthritis,Gastroenterology,Dr. Singh,Referral,15,1500,4687,500,27687,Yes,Under Treatment,A-,Yes,4
+2099,Nisha,Male,66,Jaipur,Hypertension,Pediatrics,Dr. Verma,Emergency,16,1500,7379,800,32179,Yes,Discharged,AB-,Yes,7
+2100,Divya,Female,8,Jaipur,Gastritis,Orthopedics,Dr. Mishra,Emergency,16,2500,3072,1000,44072,No,Critical,AB+,Yes,6
